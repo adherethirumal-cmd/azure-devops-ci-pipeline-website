@@ -119,20 +119,16 @@ Publish Artifact
 
 ### Azure DevOps Pipeline
 
-![Pipeline](<img width="1907" height="792" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/6956c597-6880-4e43-aadb-8459d0c57397" />
-.png)
+![Pipeline]<img width="1897" height="526" alt="Azure Repo" src="https://github.com/user-attachments/assets/57dc2e2b-b16e-41bf-835d-703a66349749" />
 
 ### Build Logs
 
-![Build Logs](screenshots/build-logs.png)<img width="1912" height="966" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/7f3f4135-deaf-45de-9729-abd5f04110d6" />
+![Build Logs]<img width="1905" height="972" alt="Yaml Script" src="https://github.com/user-attachments/assets/5fb194a2-02bd-466c-bf8c-fab5e43de5cd" />
 
 
 ### Published Artifact
 
-![Artifact]<img width="1917" height="965" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/998053c9-d229-4da4-8219-065294e50a91" />
-
-
----
+![Artifact]<img width="1916" height="965" alt="Artfacts" src="https://github.com/user-attachments/assets/bee55568-04a6-498e-8859-e5a6a5e3272c" />
 
 ## 🧠 Key Learnings
 
