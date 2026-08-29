@@ -119,15 +119,18 @@ Publish Artifact
 
 ### Azure DevOps Pipeline
 
-![Pipeline](screenshots/pipeline-success.png)
+![Pipeline](<img width="1907" height="792" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/6956c597-6880-4e43-aadb-8459d0c57397" />
+.png)
 
 ### Build Logs
 
-![Build Logs](screenshots/build-logs.png)
+![Build Logs](screenshots/build-logs.png)<img width="1912" height="966" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/7f3f4135-deaf-45de-9729-abd5f04110d6" />
+
 
 ### Published Artifact
 
-![Artifact](screenshots/artifact.png)
+![Artifact]<img width="1917" height="965" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/998053c9-d229-4da4-8219-065294e50a91" />
+
 
 ---
 
