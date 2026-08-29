@@ -117,13 +117,14 @@ Publish Artifact
 
 ## 📸 Screenshots
 
-### Azure DevOps Pipeline
+### Azure DevOps Repo
 
 ![Pipeline]<img width="1897" height="526" alt="Azure Repo" src="https://github.com/user-attachments/assets/57dc2e2b-b16e-41bf-835d-703a66349749" />
 
-### Build Logs
+### Script And Build Logs
 
-![Build Logs]<img width="1905" height="972" alt="Yaml Script" src="https://github.com/user-attachments/assets/5fb194a2-02bd-466c-bf8c-fab5e43de5cd" />
+![Build Logs]<img width="1905" height="972" alt="Yaml Script" src="https://github.com/user-attachments/assets/5fb194a2-02bd-466c-bf8c-fab5e43de5cd" /><img width="1912" height="957" alt="Agent job" src="https://github.com/user-attachments/assets/d7a9b58e-6bcf-4ab2-91da-6928f2adbd37" />
+
 
 
 ### Published Artifact
